@@ -24,6 +24,10 @@ table {
     background-color:lightskyblue;
 }
 
+tr {
+    border:1px solid black
+}
+
 footer {
     background-color: lightgray;
 }
